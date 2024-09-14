@@ -228,3 +228,24 @@ button:active {
     font-size: 18px;
     color: #d9d6d6;
 }
+
+.signUpBox{
+    background-color: #ffffff;
+    padding: 40px 80px;
+}
+
+.signUpContent{
+    flex: 1;
+    background-color: rgb(23, 166, 243);
+    border-radius: 5px;
+    display: flex;
+    padding: 20px 100px;
+    justify-content: space-between;
+}
+
+.contentbutton{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
