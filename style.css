@@ -249,3 +249,10 @@ button:active {
     justify-content: center;
     align-items: center;
 }
+
+.footer{
+    background-color: #001729;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
